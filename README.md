@@ -56,19 +56,6 @@ const TanNguyen = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanNguyenNet&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanNguyenNet&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNguyenNet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -84,26 +71,6 @@ const TanNguyen = {
 <div align="center">
 
 [![Tan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanNguyenNet&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/TanNguyenNet/TanNguyenNet/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
